@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo]()
+![logo](https://github.com/snakade29/snakade29/blob/main/banner.png)
   <h1 align="center">Hi 👋, I'm Shubham Nakade</h1>
 <h3 align="center">A passionate QA Automation Engineer from India</h3>
 
