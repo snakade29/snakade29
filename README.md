@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakade29&label=Profile%20views&color=0e75b6&style=flat" alt="snakade29" /> </p>
 
-- 🌱 I’m currently learning **REST Assured  and Mobile Testing**
+- 🌱 I’m currently learning ** Docker, Kubernetes, and AWS**
 
 - 📫 How to reach me **shubhamnakade@gmail.com**
 
